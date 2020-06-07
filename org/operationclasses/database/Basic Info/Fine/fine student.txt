@@ -1,0 +1,6 @@
+-----------Student Fine Information--------
+Patron ID: 1 Fine Amount: 165.53
+-----------Student Fine Information--------
+Patron ID: 2 Fine Amount: 165.22
+-----------Student Fine Information--------
+Patron ID: 2 Fine Amount: 99.0

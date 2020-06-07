@@ -1,0 +1,4 @@
+-----------Book Information--------
+Book ID: 101 Book Title: Harry Porter Book Subtitle: The Wonder Kid Author ID : 12 Author Name: JK rowling Author Email: jk@gmail.com Publisher ID : 9009 Publisher Name: Janina Publisher Contact No: 1417495 Book Price: 3264.0
+-----------Book Information--------
+Book ID: 103 Book Title: JAVA Book Subtitle: The Complete Reference Author ID : 321 Author Name: asd Author Email: sd@dad.com Publisher ID : 33 Publisher Name: Aklwa Publisher Contact No: 62618 Book Price: 235.0

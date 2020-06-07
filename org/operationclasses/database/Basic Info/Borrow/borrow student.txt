@@ -1,0 +1,4 @@
+-----------Student Borrow Information--------
+Patron ID: 2 Book ID: 101
+-----------Student Borrow Information--------
+Patron ID: 1 Book ID: 102

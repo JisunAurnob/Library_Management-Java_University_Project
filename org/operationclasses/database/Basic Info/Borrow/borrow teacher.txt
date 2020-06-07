@@ -1,0 +1,4 @@
+-----------Teacher Borrow Information--------
+Patron ID: 12 Book ID: 101
+-----------Teacher Borrow Information--------
+Patron ID: 13 Book ID: 102
