@@ -1,4 +1,2 @@
 -----------Student Information--------
-Patron ID: 1 Patron Name: Aurnob Patron Department Name: CS Patron Email : isunabedin@gmail.com Patron Contact No: 01767222411 Patron Address: Thakurgaon Amount(Patron): 2326.0 Student ID: 19-40318-1 Student's Guardian Name: Joynal Abedin Student's Guardian Contact No: 01714747326
------------Student Information--------
-Patron ID: 2 Patron Name: s Patron Department Name: s Patron Email : s Patron Contact No: 21616161 Patron Address: s Amount(Patron): 323262.0 Student ID: 19-40319-1 Student's Guardian Name: ss Student's Guardian Contact No: a
+Patron ID: 1 Patron Name: Aurnob Patron Department Name: CS Patron Email : isunabedin@gmail.com Patron Contact No: 01769292411 Patron Address: Thakurgaon Amount(Patron): 2326.0 Student ID: 19-40318-1 Student's Guardian Name: Joynal Abedin Student's Guardian Contact No: 01716823326
